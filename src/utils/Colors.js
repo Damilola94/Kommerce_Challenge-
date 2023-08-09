@@ -1,0 +1,1 @@
+export default  COLORS = { primary: '#000', white: '#fff' , secondary: '#980B80', grayFill:"#F2F2F2"};
